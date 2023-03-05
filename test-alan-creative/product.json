@@ -1,0 +1,46 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "image": "https://assets.pikiran-rakyat.com/crop/19x167:971x853/x/photo/2022/09/27/799023755.jpg",
+      "nama_menu": "Sate Ayam",
+      "harga": 30000
+    },
+    {
+      "id": 2,
+      "image": "https://cdn2.tstatic.net/tribunnewswiki/foto/bank/images/sajian-bakso-enak-yang-cocok-dimakan-saat-hujan.jpg",
+      "nama_menu": "Bakso",
+      "harga": 10000
+    },
+    {
+      "id": 3,
+      "image": "https://img.okezone.com/okz/500/library/images/2022/05/27/up625sbeixje0gyo4627_17935.jpeg",
+      "nama_menu": "Tempe Goreng",
+      "harga": 5000
+    },
+    {
+      "id": 4,
+      "image": "https://asset.kompas.com/crops/9c3qiTfP4-9o2M4EzU0p8tLiXtg=/0x0:698x465/375x240/data/photo/2021/03/16/6050217084fc5.jpg",
+      "nama_menu": "Tahu Isi",
+      "harga": 30000
+    },
+    {
+      "id": 5,
+      "image": "https://www.masakapahariini.com/wp-content/uploads/2019/11/shutterstock_1469046305.jpg",
+      "nama_menu": "Soto Ayam",
+      "harga": 30000
+    },
+    {
+      "id": 6,
+      "image": "https://assets-pergikuliner.com/uploads/bootsy/image/18948/Nasi_Padang__pergikuliner.com_.jpeg",
+      "nama_menu": "Nasi Padang",
+      "harga": 30000
+    },
+    {
+      "id": 7,
+      "image": "https://asset.kompas.com/crops/Gp5FwkHoA7Q0lrNZHEsMDQiSZBE=/0x0:1000x667/780x390/data/photo/2020/12/20/5fdef3f47b1a3.jpg",
+      "nama_menu": "Tacco",
+      "harga": 30000
+    }
+  ]
+}
